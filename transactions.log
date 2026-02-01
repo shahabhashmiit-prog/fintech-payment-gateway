@@ -1,0 +1,38 @@
+2026-02-01 02:21:11,666 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.97.65:5000
+2026-02-01 02:21:11,667 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-01 02:22:01,481 - INFO - transaction_id=2eed45a4-0f25-44eb-a7e4-18b76fd86220 amount=100.00 status=FAILED
+2026-02-01 02:22:01,481 - INFO - 127.0.0.1 - - [01/Feb/2026 02:22:01] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:22:45,585 - INFO - 127.0.0.1 - - [01/Feb/2026 02:22:45] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:22:57,443 - INFO - transaction_id=843d1a90-2fde-4ff5-9741-895e4a31f80b amount=250.00 status=FAILED
+2026-02-01 02:22:57,444 - INFO - 127.0.0.1 - - [01/Feb/2026 02:22:57] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:40:21,670 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.97.65:5000
+2026-02-01 02:40:21,671 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-01 02:42:54,841 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.97.65:5000
+2026-02-01 02:42:54,841 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-01 02:43:08,953 - INFO - transaction_id=52ed5719-a2f1-483c-be31-d5210984ad53 amount=100.00 status=SUCCESS
+2026-02-01 02:43:08,953 - INFO - 127.0.0.1 - - [01/Feb/2026 02:43:08] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:43:47,842 - INFO - transaction_id=70bc4f4d-0e50-482a-8bb3-d3efee0d2eeb amount=100.00 status=FAILED
+2026-02-01 02:43:47,842 - INFO - 127.0.0.1 - - [01/Feb/2026 02:43:47] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:43:54,056 - INFO - 127.0.0.1 - - [01/Feb/2026 02:43:54] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:44:01,052 - INFO - transaction_id=745f278f-87d9-4166-8c3f-af573ff1b0c6 amount=250.00 status=SUCCESS
+2026-02-01 02:44:01,052 - INFO - 127.0.0.1 - - [01/Feb/2026 02:44:01] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:48:40,826 - INFO - 127.0.0.1 - - [01/Feb/2026 02:48:40] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:50:06,355 - INFO - 127.0.0.1 - - [01/Feb/2026 02:50:06] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:50:06,364 - INFO - 127.0.0.1 - - [01/Feb/2026 02:50:06] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:50:06,372 - INFO - transaction_id=2aef4117-b0b7-47b9-b431-03a57e938903 amount=500.00 status=FAILED
+2026-02-01 02:50:06,372 - INFO - 127.0.0.1 - - [01/Feb/2026 02:50:06] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:50:35,752 - INFO - 127.0.0.1 - - [01/Feb/2026 02:50:35] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:50:35,762 - INFO - 127.0.0.1 - - [01/Feb/2026 02:50:35] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:50:35,773 - INFO - 127.0.0.1 - - [01/Feb/2026 02:50:35] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:51:52,748 - INFO - 127.0.0.1 - - [01/Feb/2026 02:51:52] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:51:52,757 - INFO - 127.0.0.1 - - [01/Feb/2026 02:51:52] "POST /pay HTTP/1.1" 200 -
+2026-02-01 02:51:52,766 - INFO - 127.0.0.1 - - [01/Feb/2026 02:51:52] "POST /pay HTTP/1.1" 200 -
